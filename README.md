@@ -25,6 +25,7 @@ Camera calibration is very importaint step. For successful camera calibration it
 ![camera calibration and undistortion] (https://github.com/parilo/carnd-advanced-lane-line-finding/blob/master/camera_calibration.png)
 
 Road distorted (left) and undistorted (rigth) image.
+
 ![road image undistortion] (https://github.com/parilo/carnd-advanced-lane-line-finding/blob/master/undistorted_road_image.png)
 
 # Morphology filter
