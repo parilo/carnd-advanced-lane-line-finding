@@ -1,4 +1,4 @@
-[![Lane line finding](http://img.youtube.com/vi/rZ_U9SQHMIs/0.jpg)](https://www.youtube.com/watch?v=rZ_U9SQHMIs)
+[![Lane line finding](http://img.youtube.com/vi/rZ_U9SQHMls/0.jpg)](https://www.youtube.com/watch?v=rZ_U9SQHMls)
 
 This is project 4 of Udacity self-driving car nanodegree. The goal is to detect lane lines on video using computer vision methods (OpenCV library).
 
