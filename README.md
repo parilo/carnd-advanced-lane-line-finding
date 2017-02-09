@@ -11,6 +11,7 @@ Code:
 # Overview
 
 Whole pipeline consist of following steps:
+
 1. Removing camera distortion. We need camera calibration for that.
 2. Filtering lane lines with morphology operations.
 3. Applying Sobel operators to threshold lane lines pixels
