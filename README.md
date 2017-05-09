@@ -155,7 +155,7 @@ For more information about radious of curvature see [here](http://www.intmath.co
 
 Here is an example of resulted video frame image with drawn lane lines, curvature and offset information
 
-![birds eye view perspective reprojection] (https://github.com/parilo/carnd-advanced-lane-line-finding/blob/master/drawn_lane_lines.png)
+![birds eye view perspective reprojection](https://github.com/parilo/carnd-advanced-lane-line-finding/blob/master/drawn_lane_lines.png)
 
 # Conclusion
 
